@@ -21,7 +21,7 @@ A simple neumorphic component for Angular 2+
 <!-- usage --->
 
 <p align="center">
-    <img src="https://i.imgur.com/mKnQbzA.gif" />
+    <img src="https://i.imgur.com/GTrX0bv.gif" />
 </p>
 
 # Getting started
