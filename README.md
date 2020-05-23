@@ -4,7 +4,7 @@ A simple neumorphic component for Angular 2+
 
 [![Version](https://img.shields.io/npm/v/open-source-npm-package-template.svg)](https://www.npmjs.com/package/ng-neu)
 [![Downloads/week](https://img.shields.io/npm/dw/open-source-npm-package-template.svg)](https://www.npmjs.com/package/ng-neu)
-[![License](https://img.shields.io/npm/l/open-source-npm-package-template.svg)](https://github.com/iamrafo/ng-neu/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/open-source-npm-package-template.svg)](https://github.com/rafaelmrdyn/ng-neu/blob/master/package.json)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors)
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 
@@ -55,6 +55,6 @@ imports: [
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/iamrafo"><img src="https://avatars3.githubusercontent.com/u/33260974?s=460&u=ca2b0f7882cdba1d90481ae471301b95181289d7&v=4" width="100px;" alt="Rafael Muradyan"/><br /><sub><b>Rafael Muradyan</b></sub></a><br /><a href="https://github.com/iamrafo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rafaelmrdyn"><img src="https://avatars3.githubusercontent.com/u/33260974?s=460&u=ca2b0f7882cdba1d90481ae471301b95181289d7&v=4" width="100px;" alt="Rafael Muradyan"/><br /><sub><b>Rafael Muradyan</b></sub></a><br /><a href="https://github.com/rafaelmrdyn" title="Code">💻</a></td>
   </tr>
 </table>
